@@ -1,0 +1,6 @@
+Version 2.2 – Übersicht als Bild/PDF.
+Neu:
+- 🖼 Bild speichert ausschließlich die Wochenübersicht (ohne Eingabefelder) als PNG unter Bilder/Fahrstunden.
+- PDF speichert ausschließlich die Wochenübersicht (ohne Eingabefelder) als PDF unter Downloads/Fahrstunden.
+- PDF ist im A4-Querformat und wird bei längeren Übersichten automatisch auf mehrere Seiten verteilt.
+- Die kompakte Bildschirmansicht bleibt erhalten.
